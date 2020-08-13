@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+}
+.Results{
+    background-color: aquamarine;
+    min-height: 500px;
+    width: 400px;
+    margin: 40px auto;
+}
+#anotherPerson button{
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    border: 0;
+    background-color: lime;
+    cursor: pointer;
+    margin: 20px;
+    font-family: 'Lobster', cursive;
+}
+#anotherPerson button:focus{
+    outline: none;
+}

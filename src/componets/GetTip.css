@@ -1,0 +1,92 @@
+body{
+    background-color: aqua;
+}
+.GetTip{
+    background-color: aquamarine;
+    min-height: 500px;
+    width: 400px;
+    margin: 40px auto;
+}
+#getTip input{
+    background-color: aqua;
+    border: 0;
+    color: black;
+    width: 250px;
+    height: 50px;
+    margin: 20px;
+    padding: 0 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    font-family: 'Lobster', cursive;
+}
+#getTip input:focus{
+    outline: none;
+}
+#getTip input[type=number]::-webkit-outer-spin-button,
+#getTip input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+#getTip button{
+    height: 50px;
+    border-radius: 5px;
+    border: 0;
+    background-color: lime;
+    cursor: pointer;
+    font-family: 'Lobster', cursive;
+}
+#getTip button:focus{
+    outline: none;
+}
+#noTip button{
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    border: 0;
+    background-color: lime;
+    cursor: pointer;
+    margin: 20px;
+    font-family: 'Lobster', cursive;
+}
+#noTip button:focus{
+    outline: none;
+}
+#tenPercent button{
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    border: 0;
+    background-color: lime;
+    cursor: pointer;
+    margin: 20px;
+    font-family: 'Lobster', cursive;
+}
+#tenPercent button:focus{
+    outline: none;
+}
+#fifteenPercent button{
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    border: 0;
+    background-color: lime;
+    cursor: pointer;
+    margin: 20px;
+    font-family: 'Lobster', cursive;
+}
+#fifteenPercent button:focus{
+    outline: none;
+}
+#twentyPercent button{
+    height: 30px;
+    width: 350px;
+    border-radius: 5px;
+    border: 0;
+    background-color: lime;
+    cursor: pointer;
+    margin: 20px;
+    font-family: 'Lobster', cursive;
+}
+#twentyPercent button:focus{
+    outline: none;
+}

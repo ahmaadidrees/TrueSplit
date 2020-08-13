@@ -1,4 +1,5 @@
 import React from 'react'
+import './ItemLister.css';
 
 function ItemLister(props){
     const items = props.items;
@@ -12,7 +13,8 @@ function ItemLister(props){
          {item.text} 
         
      </p>
-    
+     <form id="deleteButton">
+         <button onClick={ () => props.deleteItem(item.key)}>X</button></form>
     </div>})
     return <div>
       

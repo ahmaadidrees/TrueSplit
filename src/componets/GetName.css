@@ -1,0 +1,33 @@
+.GetName{
+    background-color: aquamarine;
+    min-height: 500px;
+    width: 400px;
+    margin: 40px auto;
+}
+
+#getName input{
+    background-color: aqua;
+    border: 0;
+    color: black;
+    width: 250px;
+    height: 50px;
+    margin: 20px;
+    padding: 0 20px;
+    font-size: 18px;
+    border-radius: 10px;
+    font-family: 'Lobster', cursive;
+}
+#getName input:focus{
+    outline: none;
+}
+#getName button{
+    height: 50px;
+    border-radius: 5px;
+    border: 0;
+    background-color: lime;
+    cursor: pointer;
+    font-family: 'Lobster', cursive;
+}
+#getName button:focus{
+    outline: none;
+}
