@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-true-split/static/css/main.de26ba21.chunk.css",
+    "main.js": "/react-true-split/static/js/main.b71a6835.chunk.js",
+    "main.js.map": "/react-true-split/static/js/main.b71a6835.chunk.js.map",
+    "runtime-main.js": "/react-true-split/static/js/runtime-main.6fb7e756.js",
+    "runtime-main.js.map": "/react-true-split/static/js/runtime-main.6fb7e756.js.map",
+    "static/js/2.1f1643a5.chunk.js": "/react-true-split/static/js/2.1f1643a5.chunk.js",
+    "static/js/2.1f1643a5.chunk.js.map": "/react-true-split/static/js/2.1f1643a5.chunk.js.map",
+    "index.html": "/react-true-split/index.html",
+    "precache-manifest.d8536077ad099ff189a4cb61872be676.js": "/react-true-split/precache-manifest.d8536077ad099ff189a4cb61872be676.js",
+    "service-worker.js": "/react-true-split/service-worker.js",
+    "static/css/main.de26ba21.chunk.css.map": "/react-true-split/static/css/main.de26ba21.chunk.css.map",
+    "static/js/2.1f1643a5.chunk.js.LICENSE.txt": "/react-true-split/static/js/2.1f1643a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fb7e756.js",
+    "static/js/2.1f1643a5.chunk.js",
+    "static/css/main.de26ba21.chunk.css",
+    "static/js/main.b71a6835.chunk.js"
+  ]
+}
